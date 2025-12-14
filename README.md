@@ -23,5 +23,4 @@ This project analyzes mobile phone sales data using SQL for data extraction and 
 - Units sold by RAM configuration
 - Revenue trends by RAM
 
-### Preview
-![Dashboard Preview]("preview.png")
+
